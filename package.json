@@ -1,0 +1,28 @@
+{
+  "name": "freeproxyspider",
+  "version": "1.0.0",
+  "description": "A spider aimed to crawl free proxys from internet.",
+  "main": "proxySpider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kongtianyi/freeProxySpider.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spider",
+    "proxy"
+  ],
+  "author": "kongtianyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongtianyi/freeProxySpider/issues"
+  },
+  "homepage": "https://github.com/kongtianyi/freeProxySpider#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.76.0"
+  }
+}
